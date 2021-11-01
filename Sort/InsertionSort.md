@@ -4,7 +4,7 @@
 
 - 버블 정렬과 비슷하지만 보다 개선된 정렬.
 
-<iframe src='https://gfycat.com/ifr/DenseBaggyIbis' frameborder='0' scrolling='no' allowfullscreen width='640' height='392'></iframe><p> <a href="https://gfycat.com/densebaggyibis">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(54.33% + 44px)'><iframe src='https://gfycat.com/ifr/DenseBaggyIbis' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/densebaggyibis">via Gfycat</a></p>
 
 ### 시간 복잡도
 Best : O(n)
